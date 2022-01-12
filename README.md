@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AmyCh4n
-- 👀 I’m interested in Retail/Spatial Analytics
-- 🌱 Primarily code in R, but I am also proficient in Python, SQL, HTML + CSS
+- 👀 I am a data analyst
+- 🌱 Primarily code in R, but I am also proficient in Python, SQL, HTML, CSS + Javascript
 - 📫 Send me a message on LinkedIn: https://www.linkedin.com/in/amy-chan-b9570b6a/
