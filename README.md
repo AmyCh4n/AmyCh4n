@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @AmyCh4n
-- 👀 I am a data analyst
+- 👋 Hi, I’m Amy
 - 🌱 Python, SQL, R, HTML, CSS + Javascript
