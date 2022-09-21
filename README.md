@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @AmyCh4n
 - 👀 I am a data analyst
 - 🌱 Python, SQL, R, HTML, CSS + Javascript
-- 📫 Send me a message on LinkedIn: https://www.linkedin.com/in/amy-chan-b9570b6a/
