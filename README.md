@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Amy
-- 🌱 Python, SQL, R, HTML, CSS + Javascript
+
